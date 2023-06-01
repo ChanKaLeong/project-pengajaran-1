@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="af;4Ax15,y$;CxvCN96s" x="188" y="4" h="90" w="313">Try it yourself: Create a wink emoji</comment><block type="device_show_leds" id="h.,UcS-GgId;C%b|T`-s" disabled="true" x="0" y="0"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="pxt-on-start" id="Bwu-w|;6B/JA3EFv.z%}" x="233" y="117"><statement name="HANDLER"><block type="device_print_message" id="xtd[TO;tHYJ/:2x={X?a"><value name="text"><shadow type="text" id="rh{kY5RTNu`u0n@?|Y!l"><field name="TEXT">Hello!</field></shadow></value></block></statement></block><block type="device_forever" id="T#A/D)F3JXYX!R;ng^JP" x="239" y="256"><statement name="HANDLER"><block type="basic_show_icon" id="L--hE`4OT;lk,D:ISh]E"><field name="i">IconNames.Heart</field></block></statement></block></xml>
